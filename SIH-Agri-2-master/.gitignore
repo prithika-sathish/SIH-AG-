@@ -10,3 +10,4 @@ models/
 *.bin
 models/
 *.bin
+.env

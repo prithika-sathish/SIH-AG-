@@ -1,0 +1,38 @@
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+requests>=2.31.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# LangChain and RAG Components
+langchain==0.1.17
+langchain-core==0.1.52
+langchain-community==0.0.36
+langchain-text-splitters==0.0.2
+langchain-huggingface==0.0.3
+langchain-groq==0.1.0
+sentence-transformers
+
+# Vector Database and Embeddings
+faiss-cpu>=1.7.4
+fastembed>=0.2.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web Scraping
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Audio Processing and Recording
+audio-recorder-streamlit>=0.0.8
+sounddevice>=0.4.6
+scipy>=1.10.0
+
+# Text Processing
+tiktoken>=0.5.0
+
+# Async Processing
+aiohttp>=3.9.0

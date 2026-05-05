@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.envgit rm -r --cached .venv
+git reset
+.venv/
+__pycache__/
+*.pyc
+models/
+*.bin
+models/
+*.bin
